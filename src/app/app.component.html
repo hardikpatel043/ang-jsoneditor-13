@@ -1,0 +1,6 @@
+
+<h3>Example with (change)</h3>
+<div style="height:600px;">
+  <ng-json-editor [options]="editorOptions" (jsonChange)="changeLog($event)" [data]="data" #editor></ng-json-editor>
+  <app-show [data]="showData"></app-show>
+</div>

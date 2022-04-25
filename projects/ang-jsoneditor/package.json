@@ -1,0 +1,28 @@
+{
+  "name": "@ng/json-editor",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/hardikpatel043/ang-jsoneditor-13",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hardikpatel043/ang-jsoneditor-13.git"
+  },
+  "author": "Hardik Patel <hardikpatel043@yahoo.com>",
+  "private": false,
+  "keywords": [
+    "angular",
+    "jsoneditor",
+    "ang-jsoneditor",
+    "ng-jsoneditor",
+    "@ng/json-editor",
+    "angular json editor"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0",
+    "jsoneditor": "^9.7.4"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
