@@ -1,6 +1,6 @@
 {
-  "name": "@ng/json-editor",
-  "version": "1.0.0",
+  "name": "@hardikpatel043/ang-jsoneditor-13",
+  "version": "1.0.2",
   "license": "MIT",
   "homepage": "https://github.com/hardikpatel043/ang-jsoneditor-13",
   "repository": {
@@ -14,7 +14,6 @@
     "jsoneditor",
     "ang-jsoneditor",
     "ng-jsoneditor",
-    "@ng/json-editor",
     "angular json editor"
   ],
   "peerDependencies": {
